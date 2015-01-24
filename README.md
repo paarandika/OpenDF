@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/paarandika/OpenDF.svg?branch=master)](https://travis-ci.org/paarandika/OpenDF)  
 OpenDF : A Digital Forensics Cloud Tool
 ======
 
